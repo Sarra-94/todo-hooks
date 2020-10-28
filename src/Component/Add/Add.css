@@ -1,0 +1,15 @@
+.addItem {
+  display: flex;
+  background-color: aqua;
+  padding: 5%;
+  justify-content: center;
+}
+
+.btnAdd {
+  border-radius: 50%;
+  background: bisque;
+}
+.addItem input {
+  padding: 1%;
+  width: 50%;
+}
